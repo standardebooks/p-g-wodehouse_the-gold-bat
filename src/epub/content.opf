@@ -40,8 +40,8 @@
 		<meta property="term" refines="#subject-3">sh2008111273</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Trevor, the captain of the Wrykyn football team, finds his schoolboy honor in jeopardy when a miniature gold bat known to be in his keeping is misplaced in the course of a prank executed by O’Hara, the irrepressible Irishman. Trevor, O’Hara, and others must find the bat to preserve Trevor’s honor, while also ensuring Wrykyn’s victory in football over their arch-rival Ripton, and suffering increasingly audacious attacks from the sinister and anonymous League.&lt;/p&gt;
