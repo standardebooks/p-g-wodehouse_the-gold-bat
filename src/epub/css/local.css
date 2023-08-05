@@ -18,3 +18,9 @@
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+abbr[xml|lang]{
+	font-style: italic;
+}
