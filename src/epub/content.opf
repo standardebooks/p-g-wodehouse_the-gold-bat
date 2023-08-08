@@ -54,7 +54,8 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gold_Bat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-gold-bat</meta>
-		<meta id="collection-1" property="belongs-to-collection">Wrykyn</meta>
+		<meta id="collection-1" property="belongs-to-collection">School Stories</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Sir Pelham Grenville Wodehouse</meta>
