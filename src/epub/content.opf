@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-09T16:07:21Z</dc:date>
+		<meta property="dcterms:modified">2023-08-09T16:07:21Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,13 +45,13 @@
 		<dc:description id="description">The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Trevor, the captain of the Wrykyn football team, finds his schoolboy honor in jeopardy when a miniature gold bat known to be in his keeping is misplaced in the course of a prank executed by O’Hara, the irrepressible Irishman. Trevor, O’Hara, and others must find the bat to preserve Trevor’s honor, while also ensuring Wrykyn’s victory in football over their arch-rival Ripton, and suffering increasingly audacious attacks from the sinister and anonymous League.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Gold Bat&lt;/i&gt; was one of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P.G. Wodehouse’s&lt;/a&gt; earliest works, and the first of several set at the fictional boys’ public school Wrykyn. It was originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine and later published by A &amp;amp; C Black, London.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Gold Bat&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse’s&lt;/a&gt; earliest works, and the first of several set at the fictional boys’ public school Wrykyn. It was originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine and later published by A &amp;amp; C Black, London.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6879</dc:source>
 		<dc:source>https://archive.org/details/goldbatotherstor0000wode</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">44298</meta>
+		<meta property="se:reading-ease.flesch">75.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gold_Bat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-gold-bat</meta>
 		<meta id="collection-1" property="belongs-to-collection">School Stories</meta>
@@ -85,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
