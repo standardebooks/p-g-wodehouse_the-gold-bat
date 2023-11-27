@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6879</dc:source>
 		<dc:source>https://archive.org/details/goldbatotherstor0000wode</dc:source>
-		<meta property="se:word-count">44298</meta>
+		<meta property="se:word-count">44297</meta>
 		<meta property="se:reading-ease.flesch">75.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gold_Bat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-gold-bat</meta>
