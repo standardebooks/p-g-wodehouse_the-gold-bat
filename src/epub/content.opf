@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/the-gold-bat</dc:identifier>
 		<dc:date>2023-08-09T16:07:21Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The boys of Wrykyn School battle to defend their honor against rival sports teams and enemies from within.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Trevor, the captain of the Wrykyn football team, finds his schoolboy honor in jeopardy when a miniature gold bat known to be in his keeping is misplaced in the course of a prank executed by O’Hara, the irrepressible Irishman. Trevor, O’Hara, and others must find the bat to preserve Trevor’s honor, while also ensuring Wrykyn’s victory in football over their arch-rival Ripton, and suffering increasingly audacious attacks from the sinister and anonymous League.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Gold Bat&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse’s&lt;/a&gt; earliest works, and the first of several set at the fictional boys’ public school Wrykyn. It was originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine and later published by A &amp;amp; C Black, London.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6879</dc:source>
 		<dc:source>https://archive.org/details/goldbatotherstor0000wode</dc:source>
