@@ -31,9 +31,9 @@
 		<dc:title id="title">The Gold Bat</dc:title>
 		<meta property="file-as" refines="#title">Gold Bat, The</meta>
 		<dc:subject id="subject-1">Humorous stories, English</dc:subject>
-		<dc:subject id="subject-2">Boys -- Conduct of life -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-3">Schools -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Sports -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-2">Boys--Conduct of life--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Schools--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Sports--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062977</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
